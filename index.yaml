@@ -3,12 +3,12 @@ entries:
   fruits-api:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2023-11-15T13:50:21.20604+01:00"
+    created: "2023-11-15T13:53:16.545003+01:00"
     description: A Helm chart for Kubernetes
     digest: 79c4e6d9a56c445c4cf312ecc61b8695128cb93eda205cbd6e32e22b485fbc26
     name: fruits-api
     type: application
     urls:
-    - https://github.com/anmiralles/helm-charts/fruits-api-1.0.0.tgz
+    - https://anmiralles.github.io/helm-charts/fruits-api-1.0.0.tgz
     version: 1.0.0
-generated: "2023-11-15T13:50:21.205557+01:00"
+generated: "2023-11-15T13:53:16.544562+01:00"
