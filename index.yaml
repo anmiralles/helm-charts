@@ -3,9 +3,9 @@ entries:
   fruits-api:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-05-28T17:36:37.19799+02:00"
+    created: "2024-06-05T15:12:04.396553+02:00"
     description: A Helm chart for Kubernetes
-    digest: ebb2decb60e303d9e85764874ebc671b2d629d86834d9e56cf128db8b6a8dae3
+    digest: 6b371ad77e4e1a1e0bc6231a436d46c69c7b83dfd83c171eea332b3d16ad241b
     name: fruits-api
     type: application
     urls:
@@ -14,12 +14,23 @@ entries:
   fruits-data:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-05-28T17:36:37.198528+02:00"
+    created: "2024-06-05T15:12:04.397174+02:00"
     description: A Helm chart for Kubernetes
-    digest: b9dd58871326fc0953ac27dfc6ff8c8abc6a0fdd8dc5452ef435fc3ea6909d71
+    digest: 4f465da37552a47d23c32875e2b74f25aa4f085c7dc6c457d90f57af93cb5f31
     name: fruits-data
     type: application
     urls:
     - https://anmiralles.github.io/helm-charts/fruits-data-1.0.0.tgz
     version: 1.0.0
-generated: "2024-05-28T17:36:37.194027+02:00"
+  fruits-event:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-06-05T15:12:04.397563+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 908c4b9b446ac16ba61b32b8d5ce0e0812d3292b413cdddddfb2dc69fd9ee096
+    name: fruits-event
+    type: application
+    urls:
+    - https://anmiralles.github.io/helm-charts/fruits-event-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-06-05T15:12:04.395564+02:00"
